@@ -2,7 +2,7 @@
 
 🌱 **Aspiring Developer | Full-Stack Enthusiast 
 
-![Visitors](https://komarev.com/ghpvc/?username=srkeyyyy&style=flat-square&color=blue)
+
 
 ---
 
@@ -41,6 +41,10 @@ I’m fueled by caffeine—but not the fancy latte kind. Think Monster cans stac
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=raspberry-pi&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=srkeyyyy&style=flat&color=lightgrey)
 
 ---
 
