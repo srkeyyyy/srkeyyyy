@@ -5,7 +5,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1500&color=00D9FF&center=true&vCenter=true&width=900&height=120&lines=Hello+World!+%F0%9F%91%8B;I'm+Rohith+Kumar+S;Full+Stack+Developer+%7C+AI+Agents+Enthusiast;Passionate+about+Low+Level+Programming;Privacy+first+|+Open+Source!+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
-<img width="450" height="60" alt="pixel-text-gif-find-share-on-giphy" justify-self="center" src="https://github.com/user-attachments/assets/f17851bd-f6f5-448e-9fe9-34001ae1e882" />
+
+<div align="center">
+  <img width="450" height="60" alt="pixel-text-gif-find-share-on-giphy" src="https://github.com/user-attachments/assets/f17851bd-f6f5-448e-9fe9-34001ae1e882" />
+</div>
 
 ---
 
