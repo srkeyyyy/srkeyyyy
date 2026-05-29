@@ -52,16 +52,7 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=srkeyyyy&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&area_opacity=0.1" alt="Activity Graph" />
 
-### 📈 Weekly Development Breakdown
 
-```mermaid
-pie title Weekly Coding Distribution
-    "Frontend Development" : 35
-    "Backend Development" : 30
-    "AI / Agents" : 20
-    "Learning & Research" : 10
-    "Open Source" : 5
-```
 
 </div>
 
