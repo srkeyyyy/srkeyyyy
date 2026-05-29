@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1500&color=00D9FF&center=true&vCenter=true&width=900&height=120&lines=Hello+World!+%F0%9F%91%8B;I'm+Rohith+Kumar+S;Full+Stack+Developer+%7C+AI+Agents+Enthusiast;Passionate+about+Low+Level+Programming;Privacy+first+|+Open+Source!+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
-https://giphy.com/gifs/tech-support-it-lWkqWj5OzADh0Ozt3e
+https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRwNzBwZWQ5bjB2MWk0NHN6c24wNHV5emJ6NnExaWJzeGFmMmIzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lWkqWj5OzADh0Ozt3e/giphy.gif
 ---
 
 ## 🌟 About The Developer
